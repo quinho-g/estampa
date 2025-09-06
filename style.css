@@ -302,7 +302,6 @@ section {
 }.texto {
     transform: translateX(0);
     max-width: 90%;
-    margin: 0 auto;
 }
 
 
@@ -346,6 +345,7 @@ section {
     align-items: unset;
 }
 }
+
 
 
 
