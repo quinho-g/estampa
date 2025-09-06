@@ -301,7 +301,6 @@ section {
     gap: 3rem;
 }.texto {
     transform: translateX(0);
-    max-width: 90%;
 }
 
 
@@ -345,6 +344,7 @@ section {
     align-items: unset;
 }
 }
+
 
 
 
